@@ -1,2 +1,0 @@
-# ubuntugit
-learning git
